@@ -2,17 +2,17 @@
 
 ### Day 1: December 30, 2017
 
-**Today's Progress:** Started FreeCodeCamp challenges FE Dev Cert.
-
-**Thoughts:** Got up to challenge 37, trying to stay ahead of Vic
+**Today's Progress:** Started FreeCodeCamp challenges FE Dev Cert. Got up to challenge 37, trying to stay ahead of Vic
 
 # 100 Days Of Code - Log
 
-### Day 2: January ??, 2018
+### Day 2: January 2, 2018
 
-**Today's Progress:** ..
+**Today's Progress:** got up to challenge 53
 
-**Thoughts:** 
+### Day 3: January ??, 2018
+
+**Today's Progress:** ...
 
 ---
 
