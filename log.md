@@ -10,7 +10,11 @@
 
 ### Day 3: January 3, 2018
 
-**Today's Progress:** Finished to challenge 91, to get ahead of Vic, may need to continue today to finish JQuery
+**Today's Progress:** Finished to challenge 91, to get ahead of Vic, may need to continue today to finish JQuery, didn't do anymore today
+
+### Day 3: January 3, 2018
+
+**Today's Progress:** Finished to challenge 109 and now on projects
 
 ---
 
