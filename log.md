@@ -4,8 +4,6 @@
 
 **Today's Progress:** Started FreeCodeCamp challenges FE Dev Cert. Got up to challenge 37, trying to stay ahead of Vic
 
-# 100 Days Of Code - Log
-
 ### Day 2: January 2, 2018
 
 **Today's Progress:** got up to challenge 53
