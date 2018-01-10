@@ -16,6 +16,14 @@
 
 **Today's Progress:** Finished to challenge 109 and now onto projects
 
+### Day 5: January 9, 2018
+
+**Today's Progress:** Started on Tribute page for Gozo Shioda
+
+### Day 6 January 10, 2018
+
+**Today's Progress:** Completed Tribute page at https://codepen.io/mpcnat/pen/LeQYYw/
+
 ---
 
 # 100 Days Of Code - Log
