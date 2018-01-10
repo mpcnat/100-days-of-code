@@ -22,7 +22,7 @@
 
 ### Day 6 January 10, 2018
 
-**Today's Progress:** Completed Tribute page at https://codepen.io/mpcnat/pen/LeQYYw/
+**Today's Progress:** More changes to Tribute page at https://codepen.io/mpcnat/pen/LeQYYw/ I need to add in some personal style.
 
 ---
 
