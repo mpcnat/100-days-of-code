@@ -22,7 +22,24 @@
 
 ### Day 6 January 10, 2018
 
-**Today's Progress:** Finsihed Tribute page at https://codepen.io/mpcnat/pen/LeQYYw/
+**Today's Progress:** Finished Tribute page at https://codepen.io/mpcnat/pen/LeQYYw/
+
+### Day 7 January 18, 2018
+
+**Today's Progress:** Started Portfolio page
+
+### Day 8 January 20, 2018
+
+**Today's Progress:** More on Portfolio page, stopping here to start on Javascript to stay ahead of Vic
+
+### Day 9 January 21, 2018
+
+**Today's Progress:** Halfway through Javascript, up to 160 in map, now starting on scope of vars
+
+### Day 10 January xx, 2018
+
+**Today's Progress:** ...
+
 
 ---
 
